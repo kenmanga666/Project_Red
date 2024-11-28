@@ -1,0 +1,60 @@
+{
+    "Guerrier" : [
+        {
+            "Name": "Epée en feu",
+            "Level": 1,
+            "ManaCost" : 20,
+            "Attack" : [
+                {
+                    "Name" : "Coup d'épée en feu",
+                    "Damage" : 25,
+                    "Effect1" : "Fire", "EffectValue1" : 5
+                }
+            
+            ]
+        }
+    ],
+    "Archer" : [
+        {
+            "Name": "Multi-shot",
+            "Level": 1,
+            "ManaCost" : 20,
+            "Attack" : [
+                {
+                    "Name" : "Tir multiple",
+                    "Damage" : 30
+                }
+            
+            ]
+        },
+        {
+            "Name": "Flèche empoisonnée",
+            "Level": 1,
+            "ManaCost" : 20,
+            "Attack" : [
+                {
+                    "Name" : "Flèche empoisonnée",
+                    "Damage" : 10,
+                    "Effect1" : "Poison", "EffectValue1" : 3, "Duration" : 6
+                }
+            
+            ]
+        }
+    ],
+    "Sorcier" : [
+        {
+            "Name": "Boule de feu",
+            "Level": 1,
+            "ManaCost" : 20,
+            "Attack" : [
+                {
+                    "Name" : "Boule de feu",
+                    "Damage" : 15,
+                    "Effect1" : "Fire", "EffectValue1" : 5,
+                    "Effect2" : "Shield", "EffectValue2" : 15
+                }
+            
+            ]
+        }
+    ]
+}

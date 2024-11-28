@@ -1,0 +1,58 @@
+{
+    "Forgeron": [
+        {
+            "Label": "1. Chapeau de l'aventurier",
+            "Name": "Chapeau de l'aventurier",
+            "Craft": [
+                {
+                    "Name" : "Pièces d'or",
+                    "Quantity" : 5
+                },
+                {
+                    "Name" : "Plume de Corbeau",
+                    "Quantity" : 1
+                },
+                {
+                    "Name" : "Cuir de Sanglier",
+                    "Quantity" : 1
+                }
+            ]
+        },
+        {
+            "Label": "2. Tunique de l'aventurier",
+            "Name": "Tunique de l'aventurier",
+            "Craft": [
+                {
+                    "Name" : "Pièces d'or",
+                    "Quantity" : 5
+                },
+                {
+                    "Name" : "Fourrure de loup",
+                    "Quantity" : 1
+                },
+                {
+                    "Name" : "Peau de Troll",
+                    "Quantity" : 1
+                }
+            ]
+        },
+        {
+            "Label": "3. Bottes de l'aventurier",
+            "Name": "Bottes de l'aventurier",
+            "Craft": [
+                {
+                    "Name" : "Pièces d'or",
+                    "Quantity" : 5
+                },
+                {
+                    "Name" : "Fourrure de loup",
+                    "Quantity" : 1
+                },
+                {
+                    "Name" : "Cuir de Sanglier",
+                    "Quantity" : 1
+                }
+            ]
+        }
+    ]
+}

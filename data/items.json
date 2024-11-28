@@ -1,0 +1,137 @@
+[
+    {
+        "Name": "Chapeau de l'aventurier",
+        "Label": "chapeau_aventurier",
+        "Type": "equipement",
+        "subType": "Head",
+        "BonusLife": 10,
+        "Level": 1
+    },
+    {
+        "Name": "Sucker's Hat",
+        "Label": "chapeau_aventurier",
+        "Type": "equipement",
+        "subType": "Head",
+        "BonusLife": 80,
+        "Level": 4
+    },
+    {
+        "Name": "Tunique de l'aventurier",
+        "Label": "tunique_aventurier",
+        "Type": "equipement",
+        "subType": "Body",
+        "BonusLife": 25,
+        "Level": 1
+    },
+    {
+        "Name": "Sucker's Tunic",
+        "Label": "tunique_aventurier",
+        "Type": "equipement",
+        "subType": "Body",
+        "BonusLife": 100,
+        "Level": 4
+    },
+    {
+        "Name": "Bottes de l'aventurier",
+        "Label": "bottes_aventurier",
+        "Type": "equipement",
+        "subType": "Boots",
+        "BonusLife": 15,
+        "Level": 1
+    },
+    {
+        "Name": "Sucker's Boots",
+        "Label": "bottes_aventurier",
+        "Type": "equipement",
+        "subType": "Boots",
+        "BonusLife": 90,
+        "Level": 4
+    },
+    {
+        "Name": "Sac à dos",
+        "Label": "sac_a_dos",
+        "Type": "items",
+        "Price": 30
+    },
+    {
+        "Name": "Plume de Corbeau",
+        "Label": "plume_corbeau",
+        "Type": "items",
+        "Price": 15
+    },
+    {
+        "Name": "Fourrure de loup",
+        "Label": "fourrure_loup",
+        "Type": "items",
+        "Price": 15
+    },
+    {
+        "Name": "Peau de troll",
+        "Label": "peau_troll",
+        "Type": "items",
+        "Price": 15
+    },
+    {
+        "Name": "Epée",
+        "Label": "epée",
+        "Type": "weapon",
+        "Combat" : [
+            {
+                "Name": "Coup d'épée",
+                "Type": "attack",
+                "Damage": 10
+            },
+            {
+                "Name": "Coup d'épée puissant",
+                "Type": "attack",
+                "Damage": 50
+            }
+        ]
+    },
+    {
+        "Name": "Cuir de Sanglier",
+        "Label": "cuir_sanglier",
+        "Type": "items",
+        "Price": 20
+    },
+    {
+        "Name": "Bouclier",
+        "Label": "bouclier",
+        "Type": "shield",
+        "Defense" : [
+            {
+                "Name": "Parade",
+                "Type": "defense",
+                "Tank": 50
+            }
+        ]
+    },
+    {
+        "Name": "Potion de soin",
+        "Label": "potion_soin",
+        "Type": "potion",
+        "Price": 20,
+        "Effect" : [
+            {
+                "Name": "Soin",
+                "Type": "heal",
+                "Heal": 50,
+                "Duration": 0
+            }
+        ]
+    },
+    {
+        "Name": "Potion de poison",
+        "Label": "potion_poison",
+        "Type": "potion",
+        "Price": 15,
+        "Effect" : [
+            {
+                "Name": "Poison",
+                "Type": "poison",
+                "Damages": 10,
+                "Duration": 3
+            }
+        ]
+    }
+]
